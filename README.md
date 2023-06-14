@@ -7,11 +7,11 @@
 
 > 实时更新最新免翻墙地址!
 
-如果都无法访问，请复制下面的单个节点地址，添加到客户端中，使用此节点并开启全局代理，只能访问以上蚯蚓网站。在开启全局代理的情况下，导入网站上的订阅链接并更新。
-clash客户端订阅链接：https://suo.yt/waKNwKR
+如果以上网址都无法打开，在客户端中导入下面的订阅链接，使用导入的节点，打开蚯蚓网站，导入网站上你的订阅链接并更新订阅即可。
 
-单个节点链接：
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuS7heWPr+iuv+mXruOAkOWumOe9kXFpdXlpbi5pY3XjgJEiLA0KICAiYWRkIjogInozLmRpbG9uZ3VzLnh5eiIsDQogICJwb3J0IjogIjEyOTA3IiwNCiAgImlkIjogIjQ4MGEyNjQ4LWNmMGQtNGI5Mi04NjUzLTg0MTE0MDRmNzk2NyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
+仅可访问蚯蚓网站的订阅链接： http://23.225.141.131:16161/qiuyinus.yml
+
+也可扫描订阅链接二维码，二维码图片链接 ： http://23.225.141.131:16161/qiuyinqrcode.png
 
 发送任何内容到邮箱qiuyin.co@gmail.com可以自动获得最新网址！
 
